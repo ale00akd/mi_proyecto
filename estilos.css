@@ -1,0 +1,11 @@
+.px-3{
+ margin:6rem 1rem ;
+}
+
+
+@media (max-width: 768px) {
+    .px-3{
+      font-size: 15px;
+      margin: 5rem .5rem;
+    }
+}
